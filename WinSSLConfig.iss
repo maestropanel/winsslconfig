@@ -1,3 +1,7 @@
+;Configurayion By 2014, Alexander Hass
+;http://www.hass.de/content/setup-your-iis-ssl-perfect-forward-secrecy-and-tls-12
+;Port by MaestroPanel Support Team
+
 #define MyAppName "Windows Server SSL, TLS Configuration"
 #define MyAppVersion "1.0"
 #define MyAppPublisher "MaestroPanel"
